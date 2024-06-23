@@ -1,1 +1,1 @@
-Libro de códigos para interpretación de la base de datos
+Datos de la réplica del proyecto de investigación "Recursos motivacionales para la autorregulación en la actividad física en edad universitaria"
